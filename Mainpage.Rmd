@@ -1,0 +1,79 @@
+---
+title: "Benjamin Jacobs, MS"
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyhead[CO,CE]{This is fancy header}
+- \fancyfoot[CO,CE]{And this is a fancy footer}
+- \fancyfoot[LE,RO]{\thepage}
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{css, echo=FALSE}
+h1 {
+  background-color: #F5F5DC;
+    font-family: "Lucida Console";
+        font-weight: bold;
+}
+div {
+  font: 'times-new-roman';
+  background-color: #F5F5DC;
+    font-family: "Lucida Console";
+    font-size: 32;
+}
+html {
+  background-color: #cdd8d9;
+    font-family: Georgia;
+    font-size: 32;
+}
+
+body {
+  background-color: #cdd8d9;
+    font-family: "Letter Gothic";
+    font-size: 32;
+}
+```
+
+## Welcome!
+
+   |  |
+| --- | --- | --- |
+[CV/Resume](C:\Users\blj12\OneDrive\STAT Website\Website\CV_Resume.html) | [Gallery](C:\Users\blj12\OneDrive\STAT Website\Website\Gallery.html) | [Other Fun Stuff](C:\Users\blj12\OneDrive\STAT Website\Website\Other_Fun_Stuff.html)
+
+
+
+
+
+## About Me
+```{r pressure, echo=FALSE, out.width = '25%', out.extra='style="float:right; padding:10px"'}
+knitr::include_graphics("C:\\Users\\blj12\\OneDrive\\STAT Website\\Website\\headshot1.jpg")
+```
+
+I am a first-year PhD student in Statistics at Iowa State University. I have previously earned my BS and MS in Statistics from the University of Iowa. I then worked for a few years as a Biostatistician at the Center for International Blood and Marrow Transplant Research (CIBMTR) at the Medical College of Wisconsin.
+
+My research interests include Bayesian statistics, probability, and statistical computing and graphics.
+
+## To Do List
+
+There's a lot left to do in building this site. I need to:
+
+* Get a more recent picture
+
+* Add a footer claiming copyright maybe. I'm pretty sure that has legal standing without filing any paperwork with the gov't
+
+* Once it's presentable enough then I need to figure out how to put it on Netlify
+
+
+## External Links
+
+
+[Iowa State University Stat Dept](https://www.stat.iastate.edu/) (Current school)
+
+[University of Iowa Stat and Ac Sci Dept](https://stat.uiowa.edu/) (Alma Mater)
+
+[CIBMTR](https://www.cibmtr.org/Pages/index.aspx) (Former employer)
+
