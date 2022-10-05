@@ -37,7 +37,7 @@ body {
 
    |  |
 | --- | --- | --- |
-[Mainpage](bjacobsstats.github.io) | [CV/Resume](bjacobsstats.github.io\CV_Resume) | [Other Fun Stuff](bjacobsstats.github.io\Other_Fun_Stuff)
+[Mainpage](bjacobsstats.github.io) | [CV/Resume](./CV_Resume) | [Other Fun Stuff](./Other_Fun_Stuff)
 
 ## Gallery
 

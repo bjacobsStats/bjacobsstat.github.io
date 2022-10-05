@@ -42,7 +42,7 @@ body {
 
    |  |
 | --- | --- | --- |
-[CV/Resume](bjacobsstats.github.io\CV_Resume) | [Gallery](bjacobsstats.github.io\Gallery) | [Other Fun Stuff](bjacobsstats.github.io\Other_Fun_Stuff)
+[CV/Resume](./CV_Resume) | [Gallery](./Gallery) | [Other Fun Stuff](./Other_Fun_Stuff)
 
 
 
