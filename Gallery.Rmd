@@ -37,7 +37,7 @@ body {
 
    |  |
 | --- | --- | --- |
-[Mainpage](C:\Users\blj12\OneDrive\STAT Website\Website\Mainpage.html) | [CV/Resume](C:\Users\blj12\OneDrive\STAT Website\Website\CV_Resume.html) | [Other Fun Stuff](C:\Users\blj12\OneDrive\STAT Website\Website\Other_Fun_Stuff.html)
+[Mainpage](bjacobsstats.github.io) | [CV/Resume](bjacobsstats.github.io\CV_Resume) | [Other Fun Stuff](bjacobsstats.github.io\Other_Fun_Stuff)
 
 ## Gallery
 
