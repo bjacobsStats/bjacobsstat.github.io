@@ -12,26 +12,26 @@
   font-weight: normal;
   font-style: normal;
 }
-nav {
+span {
   /* background-color: #F0F0F0; */
     font-family: UncialAntiqua;
         font-weight: Bold;
-        color: #331800;
+        /*color: #331800;*/
 }
 div {
-  background-color: #F0F0F0;
+  /*background-color: #F0F0F0;*/
     font-family: IBMPlexMono;
     font-size: 18px;
-            color: #331800;
+            /*color: #331800;*/
 }
 html {
   background-color: #F0F0F0;
     font-family: IBMPlexMono;
     font-size: 24px;
-            color: #331800;
+            /*color: #331800;*/
 }
 body {
   background-color: #F0F0F0;
-          color: #331800;
+          /*color: #331800;*/
           
           
