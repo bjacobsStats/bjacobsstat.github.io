@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "I am a PhD student in the Department of Statistics at Iowa State University. I previously studied Statistics at the University of Iowa (BS ’18, MS ’19). I then worked for a few years as a Biostatistician at the Center for International Blood and Marrow Transplant Research (CIBMTR) at the Medical College of Wisconsin.\nMy research interests include Bayesian statistics, probability, and statistical computing and graphics."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Benjamin Jacobs",
+    "section": "Welcome!",
+    "text": "Welcome!"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome!",
+    "section": "About Me",
+    "text": "About Me\nI am a PhD student in the Department of Statistics at Iowa State University. I previously studied Statistics at the University of Iowa (BS ’18, MS ’19). I then worked for a few years as a Biostatistician at the Center for International Blood and Marrow Transplant Research (CIBMTR) at the Medical College of Wisconsin.\nMy research interests include Bayesian statistics, probability, and statistical computing and graphics."
+  },
+  {
+    "objectID": "index.html#external-links",
+    "href": "index.html#external-links",
+    "title": "Welcome!",
+    "section": "External Links",
+    "text": "External Links\nIowa State University Stat Dept\nUniversity of Iowa Stat and Ac Sci Dept\nCIBMTR"
+  },
+  {
+    "objectID": "CV_Resume.html",
+    "href": "CV_Resume.html",
+    "title": "CV/Resume",
+    "section": "",
+    "text": "I still need to write a CV so that link is dead, but in the meantime enjoy the resume I used to apply to PhD programs:\nResume\nCV"
+  },
+  {
+    "objectID": "Miscellanea.html",
+    "href": "Miscellanea.html",
+    "title": "Miscellanea",
+    "section": "",
+    "text": "Miscellanea coming soon!"
+  },
+  {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications will go here with proper citation. I have the one: https://pubmed.ncbi.nlm.nih.gov/36623245/"
+  }
+]

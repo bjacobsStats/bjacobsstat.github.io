@@ -1,0 +1,14 @@
+{
+  "hash": "76bdf241fd3971e611f30f53a4aab9f8",
+  "result": {
+    "markdown": "---\ntitle: \"Welcome!\"\n---\n\n\n\n\n\n<!-- <br> -->\n\n## About Me\n\nI am a PhD student in the Department of Statistics at Iowa State University. I previously studied Statistics at the University of Iowa (BS '18, MS '19). I then worked for a few years as a Biostatistician at the Center for International Blood and Marrow Transplant Research (CIBMTR) at the Medical College of Wisconsin.\n\nMy research interests include Bayesian statistics, probability, and statistical computing and graphics.\n\n\n\n## External Links\n\n\n[Iowa State University Stat Dept](https://www.stat.iastate.edu/) \n\n[University of Iowa Stat and Ac Sci Dept](https://stat.uiowa.edu/)\n\n[CIBMTR](https://www.cibmtr.org/Pages/index.aspx) \n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

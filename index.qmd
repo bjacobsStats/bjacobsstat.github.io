@@ -1,0 +1,31 @@
+---
+title: "Welcome!"
+---
+
+
+```{r pressure, echo=FALSE, out.width="15%", out.height="15%",include=F}
+knitr::include_graphics("headshot1.jpg")
+# , out.extra='style="float:right; padding:10px"'
+```
+
+
+<!-- <br> -->
+
+## About Me
+
+I am a PhD student in the Department of Statistics at Iowa State University. I previously studied Statistics at the University of Iowa (BS '18, MS '19). I then worked for a few years as a Biostatistician at the Center for International Blood and Marrow Transplant Research (CIBMTR) at the Medical College of Wisconsin.
+
+My research interests include Bayesian statistics, probability, and statistical computing and graphics.
+
+
+
+## External Links
+
+
+[Iowa State University Stat Dept](https://www.stat.iastate.edu/) 
+
+[University of Iowa Stat and Ac Sci Dept](https://stat.uiowa.edu/)
+
+[CIBMTR](https://www.cibmtr.org/Pages/index.aspx) 
+
+

@@ -1,0 +1,5 @@
+---
+title: "Publications"
+---
+
+Publications will go here with proper citation. I have the one: <https://pubmed.ncbi.nlm.nih.gov/36623245/>
