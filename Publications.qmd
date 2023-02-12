@@ -2,6 +2,5 @@
 title: "Publications"
 ---
 
-My publications will be listed here with proper citation. 
 
-I have one: <https://pubmed.ncbi.nlm.nih.gov/36623245/>
+Eapen et al. (2023) Secondary Neoplasms After Hematopoietic Cell Transplant for Sickle Cell Disease.*Journal of Clinical Oncology* [Link](https://pubmed.ncbi.nlm.nih.gov/36623245/)

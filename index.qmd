@@ -3,7 +3,7 @@ title: "Welcome!"
 ---
 
 
-```{r pressure, echo=FALSE, out.width="15%", out.height="15%",include=F}
+```{r pressure, echo=FALSE, out.width="25%", out.height="20%",include=F}
 knitr::include_graphics("headshot1.jpg")
 # , out.extra='style="float:right; padding:10px"'
 ```

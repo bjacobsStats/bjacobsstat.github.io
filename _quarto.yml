@@ -7,7 +7,7 @@ website:
   navbar:
     title: Benjamin Jacobs
     # logo: "headshot1.jpg"
-    search: FALSE
+    # search: FALSE
     background: "#331800"
     left:
       - href: index.qmd
@@ -16,7 +16,8 @@ website:
         text: CV/Resume
       - Publications.qmd
       - Miscellanea.qmd
-  sidebar: 
+  sidebar:
+    style: "floating"
     logo: "headshot1.jpg"
     background: "#F0F0F0"
     search: FALSE
